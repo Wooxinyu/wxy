@@ -1,0 +1,11 @@
+.cm-s-obsidian span.cm-inline-code{
+    color: yellow;
+    font-weight: 300;
+    font-size: 17px;
+}
+
+.markdown-rendered code {
+    color: yellow;
+    font-weight: 200;
+    font-size: 15px;
+}

@@ -1,0 +1,6 @@
+{
+  "resultSeparator": " → ",
+  "layoutStyle": "TwoPanes",
+  "alternateRowColor": true,
+  "defaultRenderStyle": "SyntaxHighlight"
+}

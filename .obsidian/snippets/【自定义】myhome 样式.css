@@ -1,0 +1,191 @@
+/* This snippet was generated  on Blue Topaz example */
+/* https://github.com/cumany/Blue-topaz-examples */
+
+.is-mobile .myhome  img[alt="inlL"]
+{
+	display:none;
+	
+}
+.is-mobile .myhome .cus_pic
+{
+	display:contents;
+	
+}
+
+body.style-options-for-admonition-plugin.is-mobile .myhome .admonition-grid>.admonition-content-holder>.admonition-content {	columns: 200px 2;
+     -moz-columns: 200px 2;
+    -webkit-columns: 200px 2;
+}
+
+
+
+body.blockquote-style-quotation-mark.is-mobile .markdown-preview-view.myhome blockquote em{
+    text-indent:2em !important;
+}
+
+body.blockquote-style-quotation-mark.is-mobile .markdown-preview-view.myhome blockquote {
+    padding-left:5px;
+}
+
+body.style-options-for-admonition-plugin.is-mobile .myhome .admonition-kanban ul>li:not(.task-list-item) {
+    padding:5px !important;
+      
+} 
+
+.is-mobile .myhome .admonition-content button {
+	width:initial;
+    padding:0px;
+}
+.is-mobile .myhome audio{
+	
+
+    margin-left: 50%;
+    margin-top: 30px;
+}
+
+.myhome .obsidian-banner-wrapper > .obsidian-banner img.banner-image {
+
+    cursor: initial;
+	pointer-events: none;
+}
+
+
+.myhome .cus_pic {
+  margin-top: -5px!important;
+  width: 75%;
+ 
+}
+.myhome audio {
+  margin-left: 10%;
+  margin-top: 20px;
+  filter: sepia(20%) saturate(80%) grayscale(1) contrast(99%) invert(12%);
+  -moz-opacity: 0.3;
+  opacity: 0.3;
+  width: 100px;
+  height: 30px;
+  position: absolute;
+}
+.myhome audio::-webkit-media-controls-mute-button {
+  display: none !important;
+  }	
+  .myhome audio::-webkit-media-controls-current-time-display
+  {
+    display: none !important;
+    }
+    .myhome audio::-webkit-media-controls-seek-back-button
+    {
+      display: none !important;
+      }
+    .myhome audio::-webkit-media-controls-seek-forward-button
+    {
+      display: none !important;
+      }
+      .myhome audio::-webkit-media-controls-rewind-button{
+
+        display: none !important;
+      }
+.myhome audio::-webkit-media-controls-time-remaining-display
+{
+  display: none !important;
+  }
+.myhome audio::-webkit-media-controls-timeline
+{
+  display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-timeline-container
+  {
+    display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-volume-slider {
+  display: none !important;
+  }
+  
+  .myhome audio::-webkit-media-controls-volume-control-container.closed {
+  display: none !important;
+  }
+  .myhome audio::-webkit-media-controls-volume-control-container{
+  display: none !important;
+  }
+
+  
+  .myhome .embedded-backlinks
+  {
+    display:none;
+  }
+  .myhome .obsidian-banner-icon .icon-box img
+  {
+    content: url("https://api.wolai.com/v1/icon");
+  }
+
+
+  body.adjustable-embed-content-height .markdown-preview-view.myhome .markdown-embed-content {
+  
+    max-height: 100%;
+  }
+ 
+  .myhome.markdown-preview-view .markdown-preview-section
+  {
+    padding-bottom: 0px !important;
+  }
+
+  .admonition-kanban li 
+  {
+    font-size: 13.33px;
+  }
+
+.tasks progress{
+  background:#f0ec05; 
+    margin-left: -6px;
+    float: left;
+    margin-top: 8px;
+    overflow: hidden;
+    height: 8px;
+}
+.tasks progress.yellow::-moz-progress-bar { 
+  background: #e78f0c; 
+}
+.tasks progress.green::-webkit-progress-value  {
+  background: #46da48; 
+  border-radius: 4px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.25) inset;
+}
+
+
+.callout-content .block-language-dataviewjs p::first-letter{
+  color: var(--text-accent);
+  font-size: 2em;
+  margin: 0 .2em 0 0;
+}
+
+
+
+.myhome .admonition-blank .admonition-content{
+  
+  -webkit-mask-image: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, #ffffff 25%, #ffffff 75%, rgba(255, 255, 255, 0) 100%);
+  margin: 0 auto;
+}
+
+.myhome .admonition-blank .admonition-content ul {
+  text-align: center;
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0%, rgba(255, 255, 255, 0.2) 25%, rgba(255, 255, 255, 0.2) 75%, rgba(255, 255, 255, 0) 100%);
+  box-shadow: 0 0 25px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+}
+
+.myhome .admonition-blank .admonition-content ul li {
+  display: inline-block;
+}
+
+.myhome .admonition-blank .admonition-content ul li a {
+  padding: 18px;
+  text-transform:uppercase;
+  color: var(--text-normal);
+  font-size: 18px;
+  text-decoration: none;
+  display: block;
+}
+
+.myhome .admonition-blank .admonition-content ul li a:hover {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1), inset 0 0 1px rgba(255, 255, 255, 0.6);
+  background: rgba(255, 255, 255, 0.1);
+  color: var(--text-accent-hover);
+}

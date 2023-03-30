@@ -1,0 +1,203 @@
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono&family=IBM+Plex+Sans+Arabic&family=IBM+Plex+Sans+Condensed&family=IBM+Plex+Serif&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Serif:ital,wght@0,700;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Noto+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri+Quran&display=swap');
+
+.theme-light {
+    --text-shadow-color: #e08292;
+    /* 文字阴影颜色 */
+    --test: #FF0000;
+    --text-accent-rgb-yellow: rgb(227, 175, 68);
+    --text-accent-rgb-pink: rgb(240, 198, 198);
+    --text-accent-rgb-blue: rgb(138, 173, 244);
+    --text-accent-rgb-gray: rgb(75, 99, 225);
+    --text-accent-nonfaded: rgba(238, 153, 160, 1);
+    --background-modifier-border: #333333;
+    --text-faint: #999999;
+    --callout-person-background: rgb(254, 212, 164);
+    --scrollbar-thumb-bg: var(--background-modifier-border);
+}
+
+
+/* callout全局设置 */
+.callout {
+    background-color: rgb(var(--callout-color), 0.05);
+    /*callout背景颜色*/
+    border-radius: 10px;
+    /* 框架圆角 */
+    border: 1px solid rgb(var(--callout-color));
+    /* callout框架四周的线 */
+}
+
+/* callout标题全局设置 */
+.callout-title {
+    padding: 10px;
+    /*上下左右边距*/
+    display: flex;
+    color: rgb(0, 0, 0);
+    text-shadow: 0px 0px 3px var(--text-shadow-color);
+    /* 文字阴影颜色 */
+    gap: 10px;
+    font-size: larger;
+}
+
+/*callout标题全局内部设置*/
+.callout-title-inner {
+    flex: 1 1 0;
+    font-weight: normal;
+}
+
+/*callout内容全局设置*/
+.callout-content {
+    overflow-x: auto;
+    padding: 5px 15px;
+}
+
+.callout[data-callout="info"] {
+    --callout-color: 156, 160, 176;
+}
+
+.callout[data-callout="hint"], .callout[data-callout="tip"], .callout[data-callout="summary"] {
+    --callout-color: var(--text-accent-rgb-yellow);
+}
+
+.callout[data-callout="note"], .callout[data-callout="tldr"], .callout[data-callout="abstract"], .callout[data-callout="quote"], .callout[data-callout="cite"] {
+    --callout-color: 156, 160, 176;
+}
+
+.callout[data-callout="important"], .callout[data-callout="caution"], .callout[data-callout="attention"], .callout[data-callout="warning"], .callout[data-callout="danger"], .callout[data-callout="error"] {
+    --callout-color: 210, 15, 57;
+}
+
+
+.callout[data-callout="link"] {
+    --callout-color: 156, 160, 176;
+    --callout-icon: link;
+    border: none;
+    text-transform: uppercase;
+    color: var(--text-faint);
+}
+
+.callout[data-callout="resource"] {
+    --callout-color: var(--text-accent-rgb-blue);
+    --callout-icon: bookmark;
+}
+
+.callout[data-callout="summary"] {
+    --callout-color: var(--text-accent-rgb-yellow);
+    --callout-icon: coffee;
+}
+
+/*.callout[data-callout="person"] .callout-title-inner, .callout[data-callout="resource"] .callout-title-inner, .callout[data-callout="summary"] .callout-title-inner, .callout[data-callout="abstract"] .callout-title-inner, .callout[data-callout="see-also"] .callout-title-inner  {*/
+/*    font-size:0px*/
+/*}*/
+
+/*person个性化设置*/
+.callout[data-callout="person"] {
+    --callout-color: var(--callout-person-background);
+    --callout-icon: user;
+    background-color: rgb(255, 245, 235);
+    border-width: medium;
+    border-style: double;
+    border-color: rgb(254, 212, 164);
+}
+
+/*标题文字设置*/
+.callout[data-callout="person"] .callout-title-inner {
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+
+.callout[data-callout="person"] .callout-title-inner::after {
+    content: ' general information';
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+}
+
+
+.callout[data-callout="resource"] .callout-title-inner::after {
+    content: ' general information';
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+}
+
+.callout[data-callout="summary"] .callout-title-inner::after {
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+    text-transform: uppercase;
+    letter-spacing: 0.06em
+}
+
+.callout[data-callout="abstract"] .callout-title-inner::after {
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+    text-transform: uppercase;
+    letter-spacing: 0.06em
+}
+
+.callout[data-callout="see-also"] .callout-title-inner::after {
+    content: 'see also';
+    font-size: var(--fontsizetiniest);
+    font-family: var(--font-monospace);
+    text-transform: uppercase;
+    letter-spacing: 0.06em
+}
+
+.callout[data-callout="see-also"] {
+    --callout-color: 156, 160, 176;
+    --callout-icon: compass;
+}
+
+.callout[data-callout="last-updated"] {
+    --callout-color: 156, 160, 176;
+    --callout-icon: calendar;
+    border: none;
+    text-transform: uppercase;
+    color: var(--text-faint);
+    text-align: right;
+}
+
+.callout[data-callout="noiconlink"] {
+    --callout-color: 156, 160, 176;
+    --callout-icon: none;
+    border: none;
+    text-transform: uppercase;
+    color: var(--text-faint);
+}
+
+
+.callout[data-callout="home"] {
+    --callout-color: 156, 160, 176;
+    --callout-icon: home;
+    border-left: none;
+    border-top: 1px solid var(--scrollbar-thumb-bg);
+    padding-top: 0px;
+    color: var(--text-faint);
+    text-align: right;
+    text-transform: uppercase;
+    font-size: 0.8em;
+    background-color: transparent;
+}
+
+.callout[data-callout="home"] .callout-title-inner {
+    text-transform: uppercase;
+    font-size: 1em;
+}
+
+/* Add quotation character before quote */
+blockquote:before {
+    font: 14px/20px italic Times, serif;
+    content: "“";
+    font-size: 3em;
+    line-height: 0.1em;
+    vertical-align: -0.4em;
+}
+
+blockquote p {
+    display: inline;
+}

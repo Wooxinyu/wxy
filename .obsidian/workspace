@@ -1,0 +1,219 @@
+{
+  "main": {
+    "id": "a76615d4585d2f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "1d1bb1be9dca6704",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md",
+            "mode": "preview",
+            "backlinks": false,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcc0c36f53bfea45",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccaa533426bf4753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "454e57607f6e5d7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "b8ee46b54fce6b9d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md"
+              }
+            }
+          },
+          {
+            "id": "495cd2c58c0b8e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#产品",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f5448338bb60ee79",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 311
+  },
+  "right": {
+    "id": "ff1d5f5617f7df05",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7bfb3e79708448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56404783da2b0146",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3a102ac1616f99ae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "913a99ae6dc63616",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "620d2bb88823112c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4805f334894f6644",
+            "type": "leaf",
+            "state": {
+              "type": "memos_view",
+              "state": {}
+            }
+          },
+          {
+            "id": "73e168e6a9be73ac",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 3
+      },
+      {
+        "id": "8915f0ebc07dfb89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "85fa95344134d9eb",
+            "type": "leaf",
+            "state": {
+              "type": "timeline",
+              "state": {}
+            }
+          },
+          {
+            "id": "fa5154cd100203cc",
+            "type": "leaf",
+            "state": {
+              "type": "localgraph",
+              "state": {
+                "file": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md",
+                "options": {
+                  "collapse-filter": false,
+                  "search": "",
+                  "localJumps": 1,
+                  "localBacklinks": false,
+                  "localForelinks": true,
+                  "localInterlinks": true,
+                  "showTags": false,
+                  "showAttachments": false,
+                  "hideUnresolved": false,
+                  "collapse-color-groups": false,
+                  "colorGroups": [],
+                  "collapse-display": false,
+                  "showArrow": true,
+                  "textFadeMultiplier": 0,
+                  "nodeSizeMultiplier": 1,
+                  "lineSizeMultiplier": 1,
+                  "collapse-forces": true,
+                  "centerStrength": 0.518713248970312,
+                  "repelStrength": 10,
+                  "linkStrength": 1,
+                  "linkDistance": 250,
+                  "scale": 1.0000000000000029,
+                  "close": true
+                }
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 243
+  },
+  "active": "1d1bb1be9dca6704",
+  "lastOpenFiles": [
+    "7 - Summary Document │ 总结文档/Interview │ 面试总结/面试逻辑梳理.md",
+    "7 - Summary Document │ 总结文档/Interview │ 面试总结/SQL面试总结.md",
+    "7 - Summary Document │ 总结文档/Business │ 业务总结/DataWarehouse │ 数仓/DW-数据仓库建模.md",
+    "7 - Summary Document │ 总结文档/Interview │ 面试总结/计算机基础面试总结.md",
+    "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-12.md",
+    "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-13.md",
+    "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-13.md",
+    "1 - Board │ 看板/综合看板.md",
+    "7 - Summary Document │ 总结文档/Interview │ 面试总结/JVM面试总结.md",
+    "7 - Summary Document │ 总结文档/Business │ 业务总结/ABTest/AB测试实验运维记录.md"
+  ]
+}

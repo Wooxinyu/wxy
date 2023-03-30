@@ -1,0 +1,29 @@
+{
+  "promptDelete": false,
+  "showFrontmatter": false,
+  "showLineNumber": true,
+  "spellcheck": true,
+  "alwaysUpdateLinks": true,
+  "useMarkdownLinks": true,
+  "showUnsupportedFiles": true,
+  "newFileLocation": "current",
+  "newFileFolderPath": "0 - Assests │ 资产",
+  "attachmentFolderPath": "0 - Assests │ 资产",
+  "fileSortOrder": "alphabetical",
+  "autoPairMarkdown": true,
+  "autoPairBrackets": true,
+  "trashOption": "local",
+  "userIgnoreFilters": [
+    "8 - Test Function │ 功能测试/"
+  ],
+  "communityPluginSortOrder": "release",
+  "showInlineTitle": false,
+  "strictLineBreaks": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 100
+  }
+}

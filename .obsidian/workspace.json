@@ -1,0 +1,229 @@
+{
+  "main": {
+    "id": "a76615d4585d2f23",
+    "type": "split",
+    "children": [
+      {
+        "id": "ade1b627ee35b1fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "093b66658aae29dc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - linux_c/线程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bcc0c36f53bfea45",
+    "type": "split",
+    "children": [
+      {
+        "id": "ccaa533426bf4753",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6a90f88b6c86e207",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "495cd2c58c0b8e2d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": true,
+                "collapseAll": true,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9122abe136a956ad",
+            "type": "leaf",
+            "state": {
+              "type": "chronology-calendar-view",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 208.5
+  },
+  "right": {
+    "id": "ff1d5f5617f7df05",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7bfb3e79708448",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "00ff5acb26140ab6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "3 - linux_c/线程.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4c20aa046a039924",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "913a99ae6dc63616",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6bac7377f3fdf33d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "3 - linux_c/线程.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "9bacdc799388f6ed",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "a6e016c866f04a10",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "3 - linux_c/线程.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "zk-prefixer:创建时间戳笔记": false,
+      "workspaces:管理工作区布局": false,
+      "obsidian-wordnet-plugin:WordNet Dictionary": false,
+      "obsidian-comments:Show Comments Panel": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:新建 Excalidraw 绘图": false,
+      "obsidian-file-info-plugin:File Info Panel": false,
+      "obsidian42-brat:BRAT": false,
+      "templater-obsidian:Templater": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "chronology:Open Chronology": false,
+      "obsidian-trash-explorer:Open trash explorer": false,
+      "quote-share:Share": false,
+      "remotely-save:Remotely Save": false,
+      "obsidian-memos:Memos": false
+    }
+  },
+  "active": "093b66658aae29dc",
+  "lastOpenFiles": [
+    "README.md",
+    "3 - linux_c/文件IO.md",
+    "3 - linux_c/线程.md",
+    "3 - linux_c/信号.md",
+    "3 - linux_c/文件系统.md",
+    "3 - linux_c/进程.md",
+    "3 - linux_c/待清楚的概念.md",
+    "4 - stm32学习笔记/ADC.md",
+    "4 - stm32学习笔记/IIC_通信流程.md",
+    "4 - stm32学习笔记/GPIO.md",
+    "4 - stm32学习笔记/洗瓶器.md",
+    "4 - stm32学习笔记/通用定时器PWM配置.md",
+    "Pasted image 20230327212726.png",
+    "5 - Ucosiii/系统任务/系统时钟任务.md",
+    "5 - Ucosiii/中断/直接发布的疑问.png.md",
+    "5 - Ucosiii/任务管理/任务就绪表.md",
+    "7 - Template/DailyTemplate.md",
+    "1 - Board │ 看板/综合看板.md",
+    "1-日志/2023-03-29_Wednesday.md",
+    "3 - linux_c/练习函数/线程primer函数.md",
+    "3 - linux_c/练习函数/primer函数.md",
+    "3 - linux_c/liunx杂乱问题.md",
+    "3 - linux_c/git学习.md",
+    "3 - linux_c/makefile.md",
+    "4 - stm32学习笔记/图片集/ADC_image_6.png",
+    "3 - linux_c/图片集/exit.png",
+    "3 - linux_c/图片集/进程_image_1.png",
+    "4 - stm32学习笔记/STM32手册名词.md",
+    "4 - stm32学习笔记/图片集/ADC_image_3.png",
+    "4 - stm32学习笔记/C__MUK{~WL5ZWDN.md",
+    "4 - stm32学习笔记/图片集/ADC_image_5.png",
+    "4 - stm32学习笔记/图片集/ADC_image_4.png",
+    "4 - stm32学习笔记/图片集/ADC_image_2.png",
+    "4 - stm32学习笔记/图片集/ADC_image_1.png",
+    "4 - stm32学习笔记/图片集/tmp1679923840948_ADC_image_3.png",
+    "5 - Ucosiii/系统任务/空闲任务.md",
+    "1 - Board │ 看板",
+    "7 - Template/TestTemplate",
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办",
+    "2 - Learning Record │ 学习工作记录/2023/MileStone │ 里程碑",
+    "2 - Learning Record │ 学习工作记录/2023",
+    "2 - Learning Record │ 学习工作记录",
+    "3 - linux_c/练习函数",
+    "未命名",
+    "7 - Template",
+    "新建文件夹"
+  ]
+}

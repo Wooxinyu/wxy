@@ -1,0 +1,360 @@
+{
+  "customFolder": "Day Planners",
+  "mode": 1,
+  "mermaid": true,
+  "notesToDates": [
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/July │ 7月/Daily Report │ 每日记录/📋Daily Learning │ 每日学习2022-07-18.md",
+      "date": "Mon Jul 18 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/July │ 7月/Daily Report │ 每日记录/📋Daily Learning │ 每日学习2022-07-20.md",
+      "date": "Wed Jul 20 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/July │ 7月/Daily Report │ 每日记录/📋Daily Learning │ 每日学习2022-07-21.md",
+      "date": "Thu Jul 21 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/July │ 7月/Daily Report │ 每日记录/📋Daily Learning │ 每日学习2022-07-22.md",
+      "date": "Fri Jul 22 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-07-25.md",
+      "date": "Mon Jul 25 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-07-26.md",
+      "date": "Tue Jul 26 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-07-27.md",
+      "date": "Wed Jul 27 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-07-28.md",
+      "date": "Thu Jul 28 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-07-29.md",
+      "date": "Fri Jul 29 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-01.md",
+      "date": "Mon Aug 01 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-02.md",
+      "date": "Tue Aug 02 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-03.md",
+      "date": "Wed Aug 03 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-05.md",
+      "date": "Fri Aug 05 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-06.md",
+      "date": "Sat Aug 06 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-07.md",
+      "date": "Sun Aug 07 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-08.md",
+      "date": "Mon Aug 08 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-10.md",
+      "date": "Wed Aug 10 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-11.md",
+      "date": "Thu Aug 11 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-12.md",
+      "date": "Fri Aug 12 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-13.md",
+      "date": "Sat Aug 13 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-15.md",
+      "date": "Mon Aug 15 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-17.md",
+      "date": "Wed Aug 17 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-18.md",
+      "date": "Thu Aug 18 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-19.md",
+      "date": "Fri Aug 19 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-20.md",
+      "date": "Sat Aug 20 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-21.md",
+      "date": "Sun Aug 21 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-22.md",
+      "date": "Mon Aug 22 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-23.md",
+      "date": "Tue Aug 23 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-24.md",
+      "date": "Wed Aug 24 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-25.md",
+      "date": "Thu Aug 25 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-26.md",
+      "date": "Fri Aug 26 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-27.md",
+      "date": "Sat Aug 27 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-28.md",
+      "date": "Sun Aug 28 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-08-31.md",
+      "date": "Wed Aug 31 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-03.md",
+      "date": "Sat Sep 03 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-04.md",
+      "date": "Sun Sep 04 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-05.md",
+      "date": "Mon Sep 05 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-06.md",
+      "date": "Tue Sep 06 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-07.md",
+      "date": "Wed Sep 07 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-08.md",
+      "date": "Thu Sep 08 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-09.md",
+      "date": "Fri Sep 09 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-10.md",
+      "date": "Sat Sep 10 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-12.md",
+      "date": "Mon Sep 12 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-13.md",
+      "date": "Tue Sep 13 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-14.md",
+      "date": "Wed Sep 14 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-16.md",
+      "date": "Fri Sep 16 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-18.md",
+      "date": "Sun Sep 18 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-19.md",
+      "date": "Mon Sep 19 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-20.md",
+      "date": "Tue Sep 20 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-21.md",
+      "date": "Wed Sep 21 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-24.md",
+      "date": "Sat Sep 24 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-25.md",
+      "date": "Sun Sep 25 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-26.md",
+      "date": "Mon Sep 26 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-27.md",
+      "date": "Tue Sep 27 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-28.md",
+      "date": "Wed Sep 28 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-29.md",
+      "date": "Thu Sep 29 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-09-30.md",
+      "date": "Fri Sep 30 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-02.md",
+      "date": "Sun Oct 02 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-10-03.md",
+      "date": "Mon Oct 03 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-04.md",
+      "date": "Tue Oct 04 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-06.md",
+      "date": "Thu Oct 06 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-07.md",
+      "date": "Fri Oct 07 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-08.md",
+      "date": "Sat Oct 08 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-09.md",
+      "date": "Sun Oct 09 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-10.md",
+      "date": "Mon Oct 10 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-14.md",
+      "date": "Fri Oct 14 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-15.md",
+      "date": "Sat Oct 15 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-16.md",
+      "date": "Sun Oct 16 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-17.md",
+      "date": "Mon Oct 17 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-18.md",
+      "date": "Tue Oct 18 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-19.md",
+      "date": "Wed Oct 19 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-10-31.md",
+      "date": "Mon Oct 31 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-01.md",
+      "date": "Tue Nov 01 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-02.md",
+      "date": "Wed Nov 02 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-04.md",
+      "date": "Fri Nov 04 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-06.md",
+      "date": "Sun Nov 06 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-07.md",
+      "date": "Mon Nov 07 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-08.md",
+      "date": "Tue Nov 08 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-09.md",
+      "date": "Wed Nov 09 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-14.md",
+      "date": "Mon Nov 14 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-15.md",
+      "date": "Tue Nov 15 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-16.md",
+      "date": "Wed Nov 16 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-17.md",
+      "date": "Thu Nov 17 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-18.md",
+      "date": "Fri Nov 18 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-11-20.md",
+      "date": "Sun Nov 20 2022"
+    },
+    {
+      "notePath": "2 - Learning Record │ 学习工作记录/2022/MileStone │ 里程碑/MileStone │ 里程碑2022-12-02.md",
+      "date": "Fri Dec 02 2022"
+    },
+    {
+      "notePath": "linux_c/练习函数/mydata函数.md",
+      "date": "Sat Feb 25 2023"
+    }
+  ],
+  "completePastItems": true,
+  "circularProgress": false,
+  "nowAndNextInStatusBar": false,
+  "showTaskNotification": false,
+  "timelineZoomLevel": 4
+}

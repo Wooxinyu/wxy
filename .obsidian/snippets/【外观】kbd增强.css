@@ -1,0 +1,19 @@
+/*
+    kbd-font.css snippet
+
+    Activates use of (locally installed) "Linux Biolinum Keyboard O" font,
+    for using keyboard symbols in <kbd>…</kbd> HTML tags.
+
+    2021-05-16 Matthias C. Hormann (Moonbase59)
+
+    Testing whether to use 'revert' or 'initial' or 'unset'.
+    'revert' seems most compatible.
+*/
+
+kbd {
+    font-family: 'Linux Biolinum Keyboard o';
+    border-radius: revert;
+    font-size: revert;
+    background-color: revert;
+    padding: revert;
+}

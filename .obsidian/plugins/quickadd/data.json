@@ -1,0 +1,550 @@
+{
+  "choices": [
+    {
+      "id": "700e8375-3732-4a5e-8875-cf9ff81bad3d",
+      "name": "日记一条龙",
+      "type": "Macro",
+      "command": false,
+      "macroId": "e2473a1e-4128-412d-926f-77a12b7a3257"
+    },
+    {
+      "id": "3024c0bc-68a3-4f8e-9ed7-f55cbcec7149",
+      "name": "创建文档",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/文档模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:文档名称是什么}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [],
+        "chooseWhenCreatingNote": true,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2fff9298-74e4-4299-bdaa-aaf4095ae813",
+      "name": "创建名词",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/名词解析模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:名词是啥？}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": false
+      },
+      "openFile": true,
+      "openFileInMode": "source"
+    },
+    {
+      "id": "602ba8f3-25b0-466a-b79e-6088bf836674",
+      "name": "创建名片",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/people模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:姓名是啥？}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "10 - People ｜ 人员"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "59a4bdf4-81ed-4d0f-a7e3-c1ca61632801",
+      "name": "创建周报",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/周报模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "Weekly Report │ 工作周报(W{{VALUE:第几周？}})"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2 - Learning Record │ 学习工作记录/2022/Weekly Report │ 周报"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "2d507cdc-de95-44e3-98ff-de32223c387c",
+      "name": "创建月计划",
+      "type": "Macro",
+      "command": false,
+      "macroId": "1166dbcf-50b8-43de-97da-651611f7c2ae"
+    },
+    {
+      "id": "778fa34c-a5e8-45ca-9d71-a828fc6dc56f",
+      "name": "创建月计划文档",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/月计划模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{date:YYYY-M}}月计划"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "2 - Learning Record │ 学习工作记录/2023/Monthly Plan │ 月计划"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "303becd3-d491-4eb5-afd1-824907bd8d75",
+      "name": "创建面试问题",
+      "type": "Capture",
+      "command": false,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": ">[!Question] \n> \n> "
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "fef3308d-1c42-4518-9644-98da73a25a75",
+      "name": "创建任务",
+      "type": "Capture",
+      "command": true,
+      "appendLink": false,
+      "captureTo": "",
+      "captureToActiveFile": true,
+      "createFileIfItDoesntExist": {
+        "enabled": false,
+        "createWithTemplate": false,
+        "template": ""
+      },
+      "format": {
+        "enabled": true,
+        "format": "#Task/DailyTask {{VALUE:task name}} {{VALUE:⏫,🔼, ,🔽}} 🛫{{DATE}} 📅 {{DATE}}"
+      },
+      "insertAfter": {
+        "enabled": false,
+        "after": "",
+        "insertAtEnd": false,
+        "createIfNotFound": false,
+        "createIfNotFoundLocation": "top"
+      },
+      "prepend": false,
+      "task": true,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": false,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "8a37367c-d822-4b21-a5d1-c1528386e2b4",
+      "name": "刷新主页",
+      "type": "Macro",
+      "command": true,
+      "macroId": "8774a759-322e-4ff7-932a-2e700b699198"
+    },
+    {
+      "id": "39d9f96f-2d7f-419e-8310-b053fdf5354c",
+      "name": "添加MOC",
+      "type": "Template",
+      "command": false,
+      "templatePath": "5 - Standard │ 规范/Template │ 模板/moc模板.md",
+      "fileNameFormat": {
+        "enabled": true,
+        "format": "{{VALUE:MOC名称是什么}}"
+      },
+      "folder": {
+        "enabled": true,
+        "folders": [
+          "7 - Summary Document │ 总结文档/MOC │ 快速访问"
+        ],
+        "chooseWhenCreatingNote": false,
+        "createInSameFolderAsActiveFile": false
+      },
+      "appendLink": false,
+      "incrementFileName": false,
+      "openFileInNewTab": {
+        "enabled": false,
+        "direction": "vertical",
+        "focus": true
+      },
+      "openFile": true,
+      "openFileInMode": "default"
+    },
+    {
+      "id": "8d721ad8-586c-4a45-ad07-d70ce3f46810",
+      "name": "日记相关",
+      "type": "Multi",
+      "command": false,
+      "choices": [
+        {
+          "id": "6c2ef9e1-5c7c-4858-8173-c16265345c3e",
+          "name": "添加每日思考",
+          "type": "Template",
+          "command": false,
+          "templatePath": "5 - Standard │ 规范/Template │ 模板/每日思考模板.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "Q&A │ 每日思考-{{date}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "2 - Learning Record │ 学习工作记录/2023/Q&A │ 每日思考"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "6c3f8188-3697-4f39-965e-e7b71000e645",
+          "name": "打开今天日记",
+          "type": "Macro",
+          "command": false,
+          "macroId": "9a7527ad-60c3-433d-9e3c-877fecd9b0ed"
+        },
+        {
+          "id": "84c4fda2-9c4c-461b-af16-a0cb178d21fe",
+          "name": "创建时间戳",
+          "type": "Capture",
+          "command": true,
+          "appendLink": false,
+          "captureTo": "",
+          "captureToActiveFile": true,
+          "createFileIfItDoesntExist": {
+            "enabled": false,
+            "createWithTemplate": false,
+            "template": ""
+          },
+          "format": {
+            "enabled": true,
+            "format": "{{VALUE:小时}}:{{VALUE:分钟}}  {{VALUE:做什么}}"
+          },
+          "insertAfter": {
+            "enabled": false,
+            "after": "",
+            "insertAtEnd": false,
+            "createIfNotFound": false,
+            "createIfNotFoundLocation": "top"
+          },
+          "prepend": false,
+          "task": true,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "0828de34-5838-4143-b459-26d4b385bbdd",
+          "name": "创建专题",
+          "type": "Template",
+          "command": false,
+          "templatePath": "5 - Standard │ 规范/Template │ 模板/专项练习/Code专项练习模板.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "Special Project │专题-{{DATE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "2 - Learning Record │ 学习工作记录/2023/Special project │ 专题"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "9af8a39c-06e1-4d25-a5e7-d2b145c619fd",
+          "name": "创建里程碑",
+          "type": "Template",
+          "command": false,
+          "templatePath": "5 - Standard │ 规范/Template │ 模板/里程碑模板.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "MileStone │ 里程碑{{DATE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "2 - Learning Record │ 学习工作记录/2023/MileStone │ 里程碑"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "horizontal",
+            "focus": true
+          },
+          "openFile": true,
+          "openFileInMode": "default"
+        },
+        {
+          "id": "9c7722b8-6ecb-4393-aa0f-4adcd1d63918",
+          "name": "创建今日待办文档",
+          "type": "Template",
+          "command": false,
+          "templatePath": "5 - Standard │ 规范/Template │ 模板/每日待办模板.md",
+          "fileNameFormat": {
+            "enabled": true,
+            "format": "Todo │ 每日待办{{DATE}}"
+          },
+          "folder": {
+            "enabled": true,
+            "folders": [
+              "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办"
+            ],
+            "chooseWhenCreatingNote": false,
+            "createInSameFolderAsActiveFile": false
+          },
+          "appendLink": false,
+          "incrementFileName": false,
+          "openFileInNewTab": {
+            "enabled": false,
+            "direction": "vertical",
+            "focus": true
+          },
+          "openFile": false,
+          "openFileInMode": "default"
+        }
+      ],
+      "collapsed": true
+    }
+  ],
+  "macros": [
+    {
+      "name": "打开今天日记",
+      "id": "9a7527ad-60c3-433d-9e3c-877fecd9b0ed",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "27f1f5ff-2e83-40ed-869c-733ba24c8b83",
+          "time": 300
+        },
+        {
+          "name": "日记: 打开/创建今天的日记",
+          "type": "Obsidian",
+          "id": "e06eb8ae-6cf4-4435-a14c-046a70f31bda",
+          "commandId": "daily-notes"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "d16a13f3-aac7-4d34-979c-6a1a7a0d4c71",
+          "time": 100
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "刷新主页",
+      "id": "8774a759-322e-4ff7-932a-2e700b699198",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "bfd2851c-c6b0-4c6e-a265-2b66bb91bc5e",
+          "time": 300
+        },
+        {
+          "name": "Dataview: Force Refresh All Views and Blocks",
+          "type": "Obsidian",
+          "id": "22d6ef37-4219-4334-8bf1-4601766a8f60",
+          "commandId": "dataview:dataview-force-refresh-views"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "b7c15778-f6ab-4278-81b8-99a7c9b843da",
+          "time": 100
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "打开闪念笔记",
+      "id": "0f65d3ec-3463-4d29-a448-f89850dbde17",
+      "commands": [
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "b7dd596f-e8ba-4d1b-9383-07219be44e31",
+          "time": 100
+        },
+        {
+          "name": "Obsidian Memos: Open Memos",
+          "type": "Obsidian",
+          "id": "60f73c5d-8ad3-4238-b698-82b5201559ff",
+          "commandId": "obsidian-memos:open-memos"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "创建日记",
+      "id": "e2473a1e-4128-412d-926f-77a12b7a3257",
+      "commands": [
+        {
+          "name": "创建里程碑",
+          "type": "Choice",
+          "id": "0dd8b408-5b15-46f5-9dc0-ecadabe032d4",
+          "choiceId": "9af8a39c-06e1-4d25-a5e7-d2b145c619fd"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "e19df97a-5d39-4666-be3a-381328fedaab",
+          "time": 100
+        },
+        {
+          "name": "创建今日代办文档",
+          "type": "Choice",
+          "id": "f515ef1d-8715-4558-baa7-dd4ac70d6c46",
+          "choiceId": "9c7722b8-6ecb-4393-aa0f-4adcd1d63918"
+        },
+        {
+          "name": "Wait",
+          "type": "Wait",
+          "id": "555e0bb6-d13f-4d4b-b4d0-4304e7a92bbc",
+          "time": 100
+        },
+        {
+          "name": "打开今天日记",
+          "type": "Choice",
+          "id": "2cd3dbce-ee9f-48c8-bac7-6d34eb8d38ec",
+          "choiceId": "6c3f8188-3697-4f39-965e-e7b71000e645"
+        },
+        {
+          "name": "Templater: Replace templates in the active file",
+          "type": "Obsidian",
+          "id": "535615ea-a065-4a99-a4b6-a8c7b131e275",
+          "commandId": "templater-obsidian:replace-in-file-templater"
+        }
+      ],
+      "runOnStartup": false
+    },
+    {
+      "name": "创建月计划",
+      "id": "1166dbcf-50b8-43de-97da-651611f7c2ae",
+      "commands": [
+        {
+          "name": "tq: Create Task",
+          "type": "Obsidian",
+          "id": "c3fd2e6e-bb83-4b05-b8f3-74f41ddaf57a",
+          "commandId": "tq-obsidian:create-task-modal"
+        }
+      ],
+      "runOnStartup": false
+    }
+  ],
+  "inputPrompt": "multi-line",
+  "devMode": false
+}

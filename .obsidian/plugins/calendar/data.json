@@ -1,0 +1,37 @@
+{
+  "shouldConfirmBeforeCreate": true,
+  "localeOverride": "en-au",
+  "weekStart": "tuesday",
+  "showWeeklyNote": true,
+  "sourceSettings": {
+    "wordCount": {
+      "color": "#ebcb8b",
+      "display": "calendar-and-menu",
+      "wordsPerDot": 250
+    },
+    "tasks": {
+      "color": "#d08770",
+      "display": "calendar-and-menu",
+      "maxIncompleteTaskDots": 1
+    },
+    "links": {
+      "color": "#a3be8c",
+      "display": "menu"
+    },
+    "backlinks": {
+      "color": "#5e81ac",
+      "display": "menu"
+    },
+    "zettels": {
+      "color": "#b48ead",
+      "display": "calendar-and-menu"
+    },
+    "emoji-tags": {
+      "display": "none"
+    }
+  },
+  "wordsPerDot": 250,
+  "weeklyNoteFormat": "[Weekly Report] │ 工作周报YYYY-MM-D([W]ww)",
+  "weeklyNoteTemplate": "5 - Standard │ 规范/Template │ 模板/周报模板",
+  "weeklyNoteFolder": "2 - Learning Record │ 学习工作记录/2022/Weekly Report │ 周报"
+}

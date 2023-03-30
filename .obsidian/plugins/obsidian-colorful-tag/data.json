@@ -1,0 +1,472 @@
+{
+  "TagSettings": [
+    {
+      "attributes": {
+        "radius": "",
+        "prefix": "",
+        "suffix": "",
+        "background-color": "#FFFFFF",
+        "text-color": "",
+        "text-size": "",
+        "border": "",
+        "font-weight": "bold"
+      },
+      "opened": false,
+      "enable": true,
+      "tagDetail": {
+        "attributes": {
+          "-#211b7f": "2022-07-01",
+          "-#500e78": "🌟🌟🌟",
+          "-#0b3c00": "总结文档通用标签",
+          "#211b7f": "2022-07-01",
+          "#500e78": "🌟🌟🌟",
+          "#0b3c00": "总结文档通用标签"
+        },
+        "opened": false,
+        "itemType": {
+          "#211b7f": [
+            "Create Date",
+            "ReadOnly",
+            null
+          ],
+          "#500e78": [
+            "Priority",
+            "ReadOnly",
+            null
+          ],
+          "#0b3c00": [
+            "Detail",
+            "ReadOnly",
+            null
+          ]
+        },
+        "tagIndex": 0
+      },
+      "name_": "Summary"
+    }
+  ],
+  "GlobalTagSetting": {
+    "attributes": {
+      "border": "1px solid rgb(242, 211, 118)",
+      "font-weight": "900",
+      "background-color": "#F00F00",
+      "text-color": "#000000",
+      "text-size": "12",
+      "remove-tag-name": "false",
+      "remove-hash": "true"
+    },
+    "opened": false,
+    "enableList_": {
+      "border": true,
+      "font-weight": true,
+      "prefix": false,
+      "text-color": true,
+      "text-size": true,
+      "background-color": true,
+      "radius": true,
+      "remove-tag-name": true,
+      "remove-hash": true
+    }
+  },
+  "UseTagDetail": true,
+  "StoreTagDetailInYaml": "plugin",
+  "TagDetailData": {
+    "temp.md": [],
+    "日志/2023-02-18_Saturday.md": [],
+    "linux_c/进程.md": []
+  },
+  "MetaFileTagDetails": {
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-17.md": [
+      "#Task/DailyTask-19-6-177",
+      "#Task/DailyTask-20-6-250",
+      "#Task/DailyTask-21-6-329",
+      "#Task/DailyTask-22-6-399",
+      "#Task/DailyTask-23-6-477",
+      "#Task/DailyTask-24-6-539"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-18.md": [
+      "#Task/DailyTask-18-6-170",
+      "#Task/DailyTask-19-6-240",
+      "#Task/DailyTask-20-6-306",
+      "#Task/DailyTask-21-6-384",
+      "#Task/DailyTask-22-6-456"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-19.md": [
+      "#Task/DailyTask-16-6-156",
+      "#Task/DailyTask-17-6-220",
+      "#Task/DailyTask-18-6-298"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-20.md": [
+      "#Task/DailyTask-17-6-163",
+      "#Task/DailyTask-18-6-236",
+      "#Task/DailyTask-19-6-320",
+      "#Task/DailyTask-20-6-399"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-16.md": [
+      "#Task/DailyTask-18-6-170",
+      "#Task/DailyTask-19-6-251",
+      "#Task/DailyTask-20-6-325",
+      "#Task/DailyTask-21-6-396",
+      "#Task/DailyTask-22-6-472"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-21.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200",
+      "#Task/DailyTask-14-6-279"
+    ],
+    "temp.md": [],
+    "9 - Log │ 日志/Update Log ｜ 更新日志.md": [
+      "#Change/Add-20-24-201",
+      "#Change/Add-21-13-226",
+      "#Change/Add-22-32-270",
+      "#Change/Add-23-12-294",
+      "#Change/Add-27-14-335",
+      "#Change/Add-31-14-376",
+      "#Change/Update-32-19-407",
+      "#Change/Add-36-13-450",
+      "#Change/Add-37-39-501",
+      "#Change/Add-38-36-549",
+      "#Change/Add-46-28-641",
+      "#Change/Add-50-23-691",
+      "#Change/Add-51-75-778",
+      "#Change/Add-55-19-824",
+      "#Change/Update-56-44-880",
+      "#Change/Add-60-28-938",
+      "#Change/Add-64-38-1003",
+      "#Change/Update-65-43-1058",
+      "#Change/Add-66-53-1126",
+      "#Change/Add-70-33-1186",
+      "#Change/Delete-71-48-1246",
+      "#Change/Add-72-107-1368",
+      "#Change/Add-73-111-1491",
+      "#Change/Add-77-44-1562",
+      "#Change/Add-81-13-1602",
+      "#Change/Add-85-17-1646",
+      "#Change/Delete-86-20-1678",
+      "#Change/Update-90-40-1748",
+      "#Change/Update-91-45-1808",
+      "#Change/Update-95-44-1882",
+      "#Change/Update-99-26-1938",
+      "#Change/Update-103-43-2011",
+      "#Change/Delete-104-34-2061",
+      "#Change/Add-108-51-2142",
+      "#Change/Merge-109-16-2170",
+      "#Change/Update-113-33-2232",
+      "#Change/Delete-114-23-2270",
+      "#Change/Add-118-18-2318",
+      "#Change/Add-119-35-2365",
+      "#Change/Update-120-34-2411",
+      "#Change/Delete-120-52-2429",
+      "#Change/Add-121-31-2475",
+      "#Change/Add-125-47-2549",
+      "#Change/Delete-129-33-2609",
+      "#Change/Update-130-36-2660",
+      "#Change/Add-131-13-2688",
+      "#Change/Add-132-47-2747",
+      "#Change/Update-136-43-2817",
+      "#Change/Update-140-30-2877",
+      "#Change/Update-141-38-2930",
+      "#Change/Update-145-27-2987",
+      "#Change/Update-149-22-3039",
+      "#Change/Update-153-36-3105",
+      "#Change/Update-157-27-3162",
+      "#Change/Update-158-40-3217",
+      "#Change/Update-162-59-3306",
+      "#Change/Update-166-36-3372",
+      "#Change/Update-170-39-3441",
+      "#Change/Update-174-27-3498",
+      "#Change/Update-178-72-3600",
+      "#Change/Update-182-66-3696",
+      "#Change/Update-183-23-3734",
+      "#Change/Add-190-45-3846",
+      "#Change/Add-191-30-3888",
+      "#Change/Delete-192-45-3945",
+      "#Change/Delete-193-51-4011",
+      "#Change/Update-197-91-4132",
+      "#Change/Delete-198-38-4185",
+      "#Change/Delete-202-46-4261",
+      "#Change/Update-206-59-4350",
+      "#Change/Add-210-68-4448",
+      "#Change/Add-214-48-4523",
+      "#Change/Update-218-42-4592",
+      "#Change/Update-222-23-4645",
+      "#Change/Update-223-25-4685",
+      "#Change/Update-224-31-4731",
+      "#Change/Delete-228-71-4832",
+      "#Change/Delete-229-64-4911",
+      "#Change/Delete-230-43-4969",
+      "#Change/Add-231-37-5021",
+      "#Change/Delete-232-58-5091",
+      "#Change/Update-233-43-5149",
+      "#Change/Update-234-18-5182",
+      "#Change/Delete-238-14-5226",
+      "#Change/Update-242-65-5321",
+      "#Change/Delete-246-51-5402",
+      "#Change/Update-250-53-5485",
+      "#Change/Update-254-38-5553",
+      "#Change/Update-258-42-5625",
+      "#Change/Update-262-50-5705"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-23.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-201"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-24.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-189",
+      "#Task/DailyTask-14-6-263",
+      "#Task/DailyTask-15-7-325",
+      "#Task/DailyTask-16-7-406",
+      "#Task/DailyTask-17-7-471"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Daily Report │ 每日记录/Daily Learning │ 每日学习2022-12-25.md": [
+      "#Task/DailyTask-58-6-1403",
+      "#Task/DailyTask-59-6-1468",
+      "#Task/DailyTask-60-6-1551"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-26.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200",
+      "#Task/DailyTask-14-6-269"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-27.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-205",
+      "#Task/DailyTask-14-6-284",
+      "#Task/DailyTask-15-6-367"
+    ],
+    "2 - Learning Record │ 学习工作记录/2022/Todo │ 每日待办/Todo │ 每日待办2022-12-28.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-201",
+      "#Task/DailyTask-14-6-274"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-02.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-186",
+      "#Task/DailyTask-14-6-265"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-03.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-201",
+      "#Task/DailyTask-14-6-271",
+      "#Task/DailyTask-15-6-350"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-04.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-05.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-06.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-196",
+      "#Task/DailyTask-14-6-276",
+      "#Task/DailyTask-15-6-356",
+      "#Task/DailyTask-16-6-429",
+      "#Task/DailyTask-17-6-491"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-07.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-202",
+      "#Task/DailyTask-14-6-278",
+      "#Task/DailyTask-15-6-357",
+      "#Task/DailyTask-16-6-422",
+      "#Task/DailyTask-17-6-485",
+      "#Task/DailyTask-18-6-566"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-09.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200",
+      "#Task/DailyTask-14-6-280",
+      "#Task/DailyTask-15-6-353",
+      "#Task/DailyTask-16-6-420",
+      "#Task/DailyTask-17-6-499",
+      "#Task/DailyTask-18-6-571",
+      "#Task/DailyTask-19-6-667",
+      "#Task/DailyTask-20-6-744"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-11.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200",
+      "#Task/DailyTask-14-6-276",
+      "#Task/DailyTask-15-6-344",
+      "#Task/DailyTask-16-6-417",
+      "#Task/DailyTask-17-6-490",
+      "#Task/DailyTask-18-6-567",
+      "#Task/DailyTask-19-6-638"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-12.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-197",
+      "#Task/DailyTask-14-6-253",
+      "#Task/DailyTask-15-6-326",
+      "#Task/DailyTask-16-6-397",
+      "#Task/DailyTask-17-6-463"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-16.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-194",
+      "#Task/DailyTask-14-6-267",
+      "#Task/DailyTask-15-6-332",
+      "#Task/DailyTask-16-6-388"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词/鼓内存.md": [
+      "#通用技术-18-2-147"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词/ISBN.md": [
+      "#通用术语-18-2-174"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Business │ 业务名词/DW │ 数仓业务名词/数仓.md": [
+      "#数据术语-18-2-227"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-18.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-198",
+      "#Task/DailyTask-14-6-274",
+      "#Task/DailyTask-15-6-355",
+      "#Task/DailyTask-16-6-429",
+      "#Task/DailyTask-17-6-486",
+      "#Task/DailyTask-18-6-545"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-19.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-198",
+      "#Task/DailyTask-14-6-271",
+      "#Task/DailyTask-15-6-344",
+      "#Task/DailyTask-16-6-419",
+      "#Task/DailyTask-17-6-480"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-22.md": [
+      "#Task/DailyTask-12-6-121"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-26.md": [
+      "#Task/DailyTask-12-6-121"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-28.md": [
+      "#Task/DailyTask-15-6-122",
+      "#Task/DailyTask-16-6-198",
+      "#Task/DailyTask-17-6-275",
+      "#Task/DailyTask-18-6-349",
+      "#Task/DailyTask-19-6-418",
+      "#Task/DailyTask-20-6-499",
+      "#Task/DailyTask-21-6-574",
+      "#Task/DailyTask-22-6-653",
+      "#Task/DailyTask-23-6-741",
+      "#Task/DailyTask-24-6-814",
+      "#Task/DailyTask-25-6-869",
+      "#Task/DailyTask-26-6-939",
+      "#Task/DailyTask-27-6-1012",
+      "#Task/DailyTask-28-6-1082"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-01-30.md": [
+      "#Task/DailyTask-12-6-121"
+    ],
+    "3 - Column │ 专栏/Blog │ 博客/【Flink】详解StreamGraph.md": [],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-01.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-193",
+      "#Task/DailyTask-14-6-272",
+      "#Task/DailyTask-15-6-354"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-02.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-195",
+      "#Task/DailyTask-14-6-251"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-03.md": [
+      "#Task/DailyTask-12-6-121"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-04.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-180"
+    ],
+    "3 - Column │ 专栏/Blog │ 博客/效率工具/Typora操作技巧说明（一）.md": [
+      "#一-166-12-4064"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-08.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-198",
+      "#Task/DailyTask-14-6-256"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-10.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-200",
+      "#Task/DailyTask-14-6-265"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-12.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-194",
+      "#Task/DailyTask-14-6-273",
+      "#Task/DailyTask-15-6-347",
+      "#Task/DailyTask-16-6-427",
+      "#Task/DailyTask-17-6-485",
+      "#Task/DailyTask-18-6-546"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-13.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-180",
+      "#Task/DailyTask-14-6-245"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-14.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-194",
+      "#Task/DailyTask-14-6-260",
+      "#Task/DailyTask-15-6-337",
+      "#Task/DailyTask-16-6-408"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-15.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-180",
+      "#Task/DailyTask-14-6-245",
+      "#Task/DailyTask-15-6-311",
+      "#Task/DailyTask-16-6-367",
+      "#Task/DailyTask-17-6-430",
+      "#Task/DailyTask-18-6-489"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-16.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-201",
+      "#Task/DailyTask-14-6-280",
+      "#Task/DailyTask-15-6-356",
+      "#Task/DailyTask-16-6-430",
+      "#Task/DailyTask-17-6-488"
+    ],
+    "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办/Todo │ 每日待办2023-02-17.md": [
+      "#Task/DailyTask-12-6-121",
+      "#Task/DailyTask-13-6-183"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词/内省.md": [
+      "#通用术语-18-2-133"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词/投资品.md": [
+      "#通用术语-18-2-135"
+    ],
+    "5 - Standard │ 规范/Words │ 名词解析/Temp │ 临时名词/DASD.md": [
+      "#通用技术-18-2-170"
+    ],
+    "Ucosiii/任务管理/任务调度与任务切换.md": [
+      "#OSSched-38-0-706",
+      "#OSIntExit-45-0-809",
+      "#OSIntCtxSw-52-2-906",
+      "#OSCtxSw-72-0-1250",
+      "#OSIntCtxSw-82-0-1504"
+    ],
+    "Ucosiii/中断/中断管理.md": [
+      "#OSIntEnter-2-16-125",
+      "#OSIntExit-4-14-231"
+    ],
+    "日志/2023-02-18_Saturday.md": [],
+    "stm32学习笔记/IIC.md": [],
+    "stm32学习笔记/IIC_通信流程.md": [],
+    "C语言学习/关键字.md": [],
+    "C语言学习/语法题目.md": [
+      "#pargma-70-2-1070"
+    ],
+    "linux_c/文件系统.md": [],
+    "linux_c/进程.md": [],
+    "3 - linux_c/待清楚的概念.md": [],
+    "3 - linux_c/线程.md": []
+  }
+}

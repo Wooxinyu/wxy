@@ -1,0 +1,77 @@
+{
+  "firstTime": false,
+  "global_enable": {
+    "border": true,
+    "font-weight": true,
+    "prefix": false,
+    "text-color": true,
+    "text-size": true,
+    "background-color": true,
+    "radius": true,
+    "remove-tag-name": true,
+    "remove-hash": true
+  },
+  "global": {
+    "border": "1px solid rgb(242, 211, 118)",
+    "font-weight": "900",
+    "background-color": "#F00F00",
+    "text-color": "#000000",
+    "text-size": "12",
+    "remove-tag-name": "false",
+    "remove-hash": "true"
+  },
+  "attrList": [
+    "nest tag",
+    "remove hash",
+    "remove tag name",
+    "radius",
+    "prefix",
+    "suffix",
+    "background color",
+    "text color",
+    "text size",
+    "border",
+    "font weight"
+  ],
+  "defaultStyle": {},
+  "defaultGlobal": {},
+  "styleList": [
+    {
+      "radius": "",
+      "prefix": "",
+      "suffix": "",
+      "background-color": "#FFFFFF",
+      "text-color": "",
+      "text-size": "",
+      "border": "",
+      "font-weight": "bold",
+      "tag": "Summary",
+      "enable": true
+    }
+  ],
+  "useTagDetail": true,
+  "tagDetail": {
+    "temp.md": {
+      "#Summary-64": {
+        "_i": 0,
+        "_l": 10,
+        "_c": 0,
+        "Create Date": "2022-07-01",
+        "Priority": "🌟🌟🌟",
+        "Detail": ""
+      },
+      "file_size": 947,
+      "tag_num": 1
+    }
+  },
+  "tagItem": {
+    "#Summary": {
+      "#211b7f": "Create Date",
+      "default-#211b7f": "2022-07-01",
+      "#500e78": "Priority",
+      "#0b3c00": "Detail",
+      "default-#500e78": "🌟🌟🌟",
+      "default-#0b3c00": "总结文档通用标签"
+    }
+  }
+}

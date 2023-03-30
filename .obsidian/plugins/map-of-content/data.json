@@ -1,0 +1,15 @@
+{
+  "CN_path": "7 - Summary Document │ 总结文档/School │ 学校总结/投递总结.md",
+  "exluded_folders": [
+    "8 - Test Function │ 功能测试/",
+    "0 - Assests │ 资产/"
+  ],
+  "exluded_filename_components": [],
+  "settings_version": "0.1.16",
+  "plugin_version": "0.1.18",
+  "do_show_update_notice": false,
+  "auto_update_on_file_change": true,
+  "do_remember_expanded": false,
+  "MOC_path_starts_at_CN": false,
+  "file_descendants_expanded": {}
+}

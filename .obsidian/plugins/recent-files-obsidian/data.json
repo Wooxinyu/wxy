@@ -1,0 +1,207 @@
+{
+  "recentFiles": [
+    {
+      "basename": "综合看板",
+      "path": "1 - Board │ 看板/综合看板.md"
+    },
+    {
+      "basename": "线程",
+      "path": "3 - linux_c/线程.md"
+    },
+    {
+      "basename": "空闲任务",
+      "path": "5 - Ucosiii/系统任务/空闲任务.md"
+    },
+    {
+      "basename": "意识流集合",
+      "path": "2 - C语言学习/意识流集合.md"
+    },
+    {
+      "basename": "语法题目",
+      "path": "2 - C语言学习/语法题目.md"
+    },
+    {
+      "basename": "暂未分类知识点",
+      "path": "2 - C语言学习/暂未分类知识点.md"
+    },
+    {
+      "basename": "关键字",
+      "path": "2 - C语言学习/关键字.md"
+    },
+    {
+      "basename": "洗瓶器",
+      "path": "4 - stm32学习笔记/洗瓶器.md"
+    },
+    {
+      "basename": "IIC_通信流程",
+      "path": "4 - stm32学习笔记/IIC_通信流程.md"
+    },
+    {
+      "basename": "IIC_主站通信模拟",
+      "path": "4 - stm32学习笔记/IIC_主站通信模拟.md"
+    },
+    {
+      "basename": "通用定时器PWM配置",
+      "path": "4 - stm32学习笔记/通用定时器PWM配置.md"
+    },
+    {
+      "basename": "GPIO",
+      "path": "4 - stm32学习笔记/GPIO.md"
+    },
+    {
+      "basename": "信号",
+      "path": "3 - linux_c/信号.md"
+    },
+    {
+      "basename": "git学习",
+      "path": "3 - linux_c/git学习.md"
+    },
+    {
+      "basename": "makefile",
+      "path": "3 - linux_c/makefile.md"
+    },
+    {
+      "basename": "文件系统",
+      "path": "3 - linux_c/文件系统.md"
+    },
+    {
+      "basename": "进程",
+      "path": "3 - linux_c/进程.md"
+    },
+    {
+      "basename": "文件IO",
+      "path": "3 - linux_c/文件IO.md"
+    },
+    {
+      "basename": "待清楚的概念",
+      "path": "3 - linux_c/待清楚的概念.md"
+    },
+    {
+      "basename": "liunx杂乱问题",
+      "path": "3 - linux_c/liunx杂乱问题.md"
+    },
+    {
+      "basename": "通用定时器PWM配置_image_2",
+      "path": "4 - stm32学习笔记/图片集/通用定时器PWM配置_image_2.png"
+    },
+    {
+      "basename": "通用定时器PWM配置_image_1",
+      "path": "4 - stm32学习笔记/图片集/通用定时器PWM配置_image_1.png"
+    },
+    {
+      "basename": "2023-03-15_Wednesday",
+      "path": "1-日志/2023-03-15_Wednesday.md"
+    },
+    {
+      "basename": "2023-03-09_Thursday",
+      "path": "1-日志/2023-03-09_Thursday.md"
+    },
+    {
+      "basename": "2023-03-13_Monday",
+      "path": "1-日志/2023-03-13_Monday.md"
+    },
+    {
+      "basename": "2023-03-08_Wednesday",
+      "path": "1-日志/2023-03-08_Wednesday.md"
+    },
+    {
+      "basename": "任务调度与任务切换",
+      "path": "5 - Ucosiii/任务管理/任务调度与任务切换.md"
+    },
+    {
+      "basename": "软件定时器",
+      "path": "5 - Ucosiii/软件定时器.md"
+    },
+    {
+      "basename": "任务就绪表",
+      "path": "5 - Ucosiii/任务管理/任务就绪表.md"
+    },
+    {
+      "basename": "2023-03-07_Tuesday",
+      "path": "1-日志/2023-03-07_Tuesday.md"
+    },
+    {
+      "basename": "primer函数",
+      "path": "3 - linux_c/练习函数/primer函数.md"
+    },
+    {
+      "basename": "myshell函数",
+      "path": "3 - linux_c/练习函数/myshell函数.md"
+    },
+    {
+      "basename": "myfork函数",
+      "path": "3 - linux_c/练习函数/myfork函数.md"
+    },
+    {
+      "basename": "mydu函数",
+      "path": "3 - linux_c/练习函数/mydu函数.md"
+    },
+    {
+      "basename": "mydata函数",
+      "path": "3 - linux_c/练习函数/mydata函数.md"
+    },
+    {
+      "basename": "2023-03-05_Sunday",
+      "path": "1-日志/2023-03-05_Sunday.md"
+    },
+    {
+      "basename": "2023-03-02_Thursday",
+      "path": "1-日志/2023-03-02_Thursday.md"
+    },
+    {
+      "basename": "2023-03-03_Friday",
+      "path": "1-日志/2023-03-03_Friday.md"
+    },
+    {
+      "basename": "2023-03-04_Saturday",
+      "path": "1-日志/2023-03-04_Saturday.md"
+    },
+    {
+      "basename": "2023-03-06_Monday",
+      "path": "1-日志/2023-03-06_Monday.md"
+    },
+    {
+      "basename": "2023-03-01_Wednesday",
+      "path": "1-日志/2023-03-01_Wednesday.md"
+    },
+    {
+      "basename": "父子文件共享例程",
+      "path": "3 - linux_c/练习函数/父子文件共享例程.md"
+    },
+    {
+      "basename": "DailyTemplate",
+      "path": "7 - Template/DailyTemplate.md"
+    },
+    {
+      "basename": "2023-02-25_Saturday",
+      "path": "1-日志/2023-02-25_Saturday.md"
+    },
+    {
+      "basename": "code",
+      "path": "7 - Template/TestTemplate/code.md"
+    },
+    {
+      "basename": "2023-02-27_Monday",
+      "path": "1-日志/2023-02-27_Monday.md"
+    },
+    {
+      "basename": "2023-02-28_Tuesday",
+      "path": "1-日志/2023-02-28_Tuesday.md"
+    },
+    {
+      "basename": "资源管理",
+      "path": "5 - Ucosiii/资源管理.md"
+    },
+    {
+      "basename": "系统滴答定时器",
+      "path": "5 - Ucosiii/系统滴答定时器.md"
+    },
+    {
+      "basename": "系统时钟任务",
+      "path": "5 - Ucosiii/系统任务/系统时钟任务.md"
+    }
+  ],
+  "omittedPaths": [],
+  "maxLength": null,
+  "openType": "tab"
+}

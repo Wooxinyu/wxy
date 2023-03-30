@@ -1,0 +1,44 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": true,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "tag:#Definitions",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "tag:#Summary",
+      "color": {
+        "a": 1,
+        "rgb": 1851113
+      }
+    },
+    {
+      "query": "tag:#Report",
+      "color": {
+        "a": 1,
+        "rgb": 10302617
+      }
+    }
+  ],
+  "collapse-display": true,
+  "showArrow": true,
+  "textFadeMultiplier": 0,
+  "nodeSizeMultiplier": 1.08837606837607,
+  "lineSizeMultiplier": 0.95383547008547,
+  "collapse-forces": false,
+  "centerStrength": 0.559729381443299,
+  "repelStrength": 20,
+  "linkStrength": 0.621585051546392,
+  "linkDistance": 295,
+  "scale": 0.09848280266864443,
+  "close": true
+}

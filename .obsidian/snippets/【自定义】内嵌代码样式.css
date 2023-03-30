@@ -1,0 +1,30 @@
+.theme-light {
+    --code-color-editor: #c7054e;
+    --code-color-preview: #000000;
+    --code_background-color: #d6bfc5;
+}
+
+/* 编辑状态下的内嵌代码 */
+.cm-s-obsidian span.cm-inline-code {
+    color: var(--code-color-editor);
+    background-color: var(--code_background-color);
+    font-size: 19px;
+    font-family: 'JetBrains Mono', Courier, monospace;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
+
+.cm-s-obsidian span.cm-inline-code:not(.cm-formatting):not(.cm-hmd-indented-code):not(.obsidian-search-match-highlight) {
+    background-color: var(--code_background-color);
+
+}
+
+/* 预览状态下的内嵌代码 */
+.markdown-rendered code {
+    color: var(--code-color-preview);
+    background-color: var(--code_background-color);
+    font-size: 19px;
+    font-family: 'JetBrains Mono', Courier, monospace;
+    padding: 2px 4px;
+    border-radius: 4px;
+}
