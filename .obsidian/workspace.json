@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "512ef71bd8fca83b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -86,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - linux_c/makefile.md",
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - linux_c/makefile.md",
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - linux_c/makefile.md"
+                "file": "3 - linux_c/练习函数/primer_pool.c.md"
               }
             }
           }
@@ -177,10 +191,11 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "093b66658aae29dc",
+  "active": "512ef71bd8fca83b",
   "lastOpenFiles": [
-    "3 - linux_c/liunx杂乱问题.md",
     "3 - linux_c/makefile.md",
+    "3 - linux_c/练习函数/primer_pool.c.md",
+    "3 - linux_c/liunx杂乱问题.md",
     "5 - Ucosiii/系统任务/可选任务.md",
     "README.md",
     "3 - linux_c/线程.md",
@@ -209,7 +224,6 @@
     "3 - linux_c/图片集/进程_image_1.png",
     "4 - stm32学习笔记/STM32手册名词.md",
     "4 - stm32学习笔记/图片集/ADC_image_3.png",
-    "4 - stm32学习笔记/C__MUK{~WL5ZWDN.md",
     "4 - stm32学习笔记/图片集/ADC_image_5.png",
     "4 - stm32学习笔记/图片集/ADC_image_4.png",
     "4 - stm32学习笔记/图片集/ADC_image_2.png",
