@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/makefile.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -86,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/makefile.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/makefile.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -142,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3 - linux_c/makefile.md"
               }
             }
           }
@@ -179,8 +179,11 @@
   },
   "active": "093b66658aae29dc",
   "lastOpenFiles": [
-    "3 - linux_c/线程.md",
+    "3 - linux_c/liunx杂乱问题.md",
+    "3 - linux_c/makefile.md",
+    "5 - Ucosiii/系统任务/可选任务.md",
     "README.md",
+    "3 - linux_c/线程.md",
     "3 - linux_c/文件IO.md",
     "3 - linux_c/信号.md",
     "3 - linux_c/文件系统.md",
@@ -200,9 +203,7 @@
     "1-日志/2023-03-29_Wednesday.md",
     "3 - linux_c/练习函数/线程primer函数.md",
     "3 - linux_c/练习函数/primer函数.md",
-    "3 - linux_c/liunx杂乱问题.md",
     "3 - linux_c/git学习.md",
-    "3 - linux_c/makefile.md",
     "4 - stm32学习笔记/图片集/ADC_image_6.png",
     "3 - linux_c/图片集/exit.png",
     "3 - linux_c/图片集/进程_image_1.png",
@@ -214,7 +215,6 @@
     "4 - stm32学习笔记/图片集/ADC_image_2.png",
     "4 - stm32学习笔记/图片集/ADC_image_1.png",
     "4 - stm32学习笔记/图片集/tmp1679923840948_ADC_image_3.png",
-    "5 - Ucosiii/系统任务/空闲任务.md",
     "1 - Board │ 看板",
     "7 - Template/TestTemplate",
     "2 - Learning Record │ 学习工作记录/2023/Todo │ 每日待办",
