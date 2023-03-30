@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "3 - linux_c/线程.md",
+                "file": "README.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -66,8 +66,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "horizontal",
@@ -87,7 +86,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "3 - linux_c/线程.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +117,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "3 - linux_c/线程.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -143,7 +142,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "3 - linux_c/线程.md"
+                "file": "README.md"
               }
             }
           }
@@ -180,9 +179,9 @@
   },
   "active": "093b66658aae29dc",
   "lastOpenFiles": [
+    "3 - linux_c/线程.md",
     "README.md",
     "3 - linux_c/文件IO.md",
-    "3 - linux_c/线程.md",
     "3 - linux_c/信号.md",
     "3 - linux_c/文件系统.md",
     "3 - linux_c/进程.md",
