@@ -11,12 +11,12 @@
 #include <pthread.h>
 #include <string.h>
 
-#define LEFT 3000000
-#define RIGHT 3000200
-#define THREAD_NUM  (RIGHT-LEFT+1)
+#define LEFT 5
+#define RIGHT 100
+#define THREAD_NUM  4
 
 static int num = 0;
-static pthread_mutex_t mutex_num = PTHREAD_MUTEX_INITIALIZER;
+static  pthread_mutex_t mutex_num = PTHREAD_MUTEX_INITIALIZER;
 
 static void * thr_primer(void *p);
 
@@ -26,7 +26,7 @@ int main()
     pthread_t tid[THREAD_NUM];
     for(i = 0;i< THREAD_NUM; i++)
     {
-        err = pthread_create(tid+i,NULL,thr_primer,&i);
+        err = pthread_create(tid+i,NULL,thr_primer,(void *)i);
         if(err)
         {
             fprintf(stderr,"pthread_create():%s\n",strerror(err));
@@ -43,10 +43,20 @@ int main()
             sched_yield();     // 
             pthread_mutex_lock(&mutex_num);
         }
+        printf("%d,:%d\n",__LINE__,i);
         num = i;
         pthread_mutex_unlock(&mutex_num);
+        sched_yield();
+    }
+    pthread_mutex_lock(&mutex_num);
+    while(num != 0)
+    {
+        pthread_mutex_unlock(&mutex_num);
+        sched_yield();
+        pthread_mutex_lock(&mutex_num);
     }
     num = -1;
+    pthread_mutex_unlock(&mutex_num);
     for(i = 0;i < THREAD_NUM; i++)
         pthread_join(tid[i],NULL);
     pthread_mutex_destroy(&mutex_num);
@@ -54,23 +64,25 @@ int main()
 }
 static void * thr_primer(void *p)
 {
-    int i, j, mark = 1;
-    while(1){
-        
+    int i, j, mark;
+    while(1)
+    {
         pthread_mutex_lock(&mutex_num);
-         while(num == 0)
+        while(num == 0)
         {
             pthread_mutex_unlock(&mutex_num);
             sched_yield();     // 
             pthread_mutex_lock(&mutex_num);
        }
-        i = num;
         if(num == -1)
         {
-        pthread_mutex_unlock(&mutex_num);
-        break;
+            pthread_mutex_unlock(&mutex_num);
+            break;
         }
+        i = num;
+        printf("%d,:%d\n",__LINE__,i);
         num = 0;
+        mark = 1;
         pthread_mutex_unlock(&mutex_num);
         for(j = 2; j <= i/2; j++)
         {
