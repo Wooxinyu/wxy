@@ -26,7 +26,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -100,7 +100,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -131,7 +131,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "3 - linux_c/练习函数/primer_pool.c.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -156,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "3 - linux_c/练习函数/primer_pool.c.md"
               }
             }
           }
@@ -193,13 +193,13 @@
   },
   "active": "512ef71bd8fca83b",
   "lastOpenFiles": [
+    "README.md",
     "3 - linux_c/待清楚的概念.md",
     "3 - linux_c/进程.md",
     "3 - linux_c/练习函数/primer_pool.c.md",
     "3 - linux_c/makefile.md",
     "3 - linux_c/liunx杂乱问题.md",
     "5 - Ucosiii/系统任务/可选任务.md",
-    "README.md",
     "3 - linux_c/线程.md",
     "3 - linux_c/文件IO.md",
     "3 - linux_c/信号.md",
