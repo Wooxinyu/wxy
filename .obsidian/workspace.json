@@ -39,7 +39,20 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "6- 算法/合并两个连续数组.md",
+                "file": "3 - linux_c/线程.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "39d4b0437c98db33",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "4 - stm32学习笔记/洗瓶器.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -47,7 +60,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -113,7 +126,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "6- 算法/合并两个连续数组.md",
+                "file": "4 - stm32学习笔记/洗瓶器.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -144,7 +157,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "6- 算法/合并两个连续数组.md",
+                "file": "4 - stm32学习笔记/洗瓶器.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -169,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "6- 算法/合并两个连续数组.md"
+                "file": "4 - stm32学习笔记/洗瓶器.md"
               }
             }
           }
@@ -204,13 +217,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "2dbf146f1ef4a130",
+  "active": "6a90f88b6c86e207",
   "lastOpenFiles": [
-    "6- 算法/两数之和.md",
-    "6- 算法/合并两个连续数组.md",
-    "3 - linux_c/练习函数/anytimer.c.md",
+    "3 - linux_c/练习函数/mytbp_mt.md",
+    "3 - linux_c/线程.md",
+    "3 - linux_c/文件IO.md",
+    "3 - linux_c/信号.md",
     "3 - linux_c/练习函数/mytbf_sig.md",
+    "3 - linux_c/练习函数/线程primer函数.md",
     "6- 算法/存在重复元素.md",
+    "6- 算法/合并两个连续数组.md",
+    "6- 算法/两数之和.md",
+    "3 - linux_c/练习函数/anytimer.c.md",
     "6- 算法/最小连续子数组和.md",
     "7 - Template/TestTemplate/code_problem.md",
     "3 - linux_c/makefile.md",
@@ -221,18 +239,13 @@
     "4 - stm32学习笔记/洗瓶器.md",
     "4 - stm32学习笔记/ADC.md",
     "3 - linux_c/文件系统.md",
-    "3 - linux_c/文件IO.md",
     "3 - linux_c/练习函数/mydata函数.md",
     "3 - linux_c/练习函数/mydu函数.md",
     "3 - linux_c/练习函数/myfork函数.md",
     "3 - linux_c/练习函数/primer_pool.c.md",
     "3 - linux_c/练习函数/myshell函数.md",
-    "3 - linux_c/线程.md",
     "README.md",
     "3 - linux_c/liunx杂乱问题.md",
-    "5 - Ucosiii/系统任务/可选任务.md",
-    "3 - linux_c/信号.md",
-    "4 - stm32学习笔记/IIC_通信流程.md",
     "Pasted image 20230327212726.png",
     "4 - stm32学习笔记/图片集/ADC_image_6.png",
     "3 - linux_c/图片集/exit.png",
