@@ -4,37 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "e16207f6c1d57bac",
+        "id": "13198035d70edb2c",
         "type": "tabs",
         "children": [
           {
-            "id": "133fdae467972a7e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "3 - linux_c/练习函数/anytimer.c.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "fbff0ddf3d73b463",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "6- 算法/两数之和.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2dbf146f1ef4a130",
+            "id": "44e9e474ca445ffb",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -45,22 +19,8 @@
                 "source": false
               }
             }
-          },
-          {
-            "id": "39d4b0437c98db33",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "4 - stm32学习笔记/洗瓶器.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -106,11 +66,12 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
-    "width": 208.5
+    "width": 200
   },
   "right": {
     "id": "ff1d5f5617f7df05",
@@ -126,7 +87,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4 - stm32学习笔记/洗瓶器.md",
+                "file": "3 - linux_c/线程.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -157,7 +118,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4 - stm32学习笔记/洗瓶器.md",
+                "file": "3 - linux_c/线程.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -182,7 +143,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4 - stm32学习笔记/洗瓶器.md"
+                "file": "3 - linux_c/线程.md"
               }
             }
           }
@@ -217,18 +178,18 @@
       "obsidian-memos:Memos": false
     }
   },
-  "active": "6a90f88b6c86e207",
+  "active": "44e9e474ca445ffb",
   "lastOpenFiles": [
-    "3 - linux_c/练习函数/mytbp_mt.md",
+    "6- 算法/两数之和.md",
     "3 - linux_c/线程.md",
+    "6- 算法/合并两个连续数组.md",
+    "3 - linux_c/练习函数/anytimer.c.md",
+    "3 - linux_c/练习函数/mytbp_mt.md",
     "3 - linux_c/文件IO.md",
     "3 - linux_c/信号.md",
     "3 - linux_c/练习函数/mytbf_sig.md",
     "3 - linux_c/练习函数/线程primer函数.md",
     "6- 算法/存在重复元素.md",
-    "6- 算法/合并两个连续数组.md",
-    "6- 算法/两数之和.md",
-    "3 - linux_c/练习函数/anytimer.c.md",
     "6- 算法/最小连续子数组和.md",
     "7 - Template/TestTemplate/code_problem.md",
     "3 - linux_c/makefile.md",

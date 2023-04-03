@@ -2,7 +2,6 @@
   "cssTheme": "Minimal",
   "enabledCssSnippets": [
     "supercharged-links-gen",
-    "【天气】weather",
     "【自定义】彩色时钟样式",
     "color-Heading",
     "【更好看的高亮】realistic-highlight",
@@ -25,9 +24,10 @@
     "light-subtler-folding-gutter-arrows",
     "light-tableStyles",
     "【自定义】callout",
-    "【自定义】内嵌代码样式"
+    "【自定义】内嵌代码样式",
+    "【天气】weather"
   ],
-  "baseFontSize": 26,
+  "baseFontSize": 24,
   "translucency": false,
   "theme": "obsidian",
   "accentColor": "",
